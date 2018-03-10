@@ -1,0 +1,31 @@
+{
+  "name": "weborama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariValeJea/weborama.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariValeJea/weborama/issues"
+  },
+  "homepage": "https://github.com/MariValeJea/weborama#readme",
+  "devDependencies": {
+    "web-component-env": "^2.9.5"
+  },
+  "dependencies": {
+    "@blueprintjs/core": "^2.0.0-rc.2",
+    "classnames": "^2.2.5",
+    "glamor": "^2.20.40",
+    "lodash": "^4.17.5",
+    "react": "^16.2.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-dom": "^16.2.0"
+  }
+}
